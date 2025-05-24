@@ -57,7 +57,9 @@ plt.show()
 ```
 
 
-# Result
+# output
 ![image](https://github.com/user-attachments/assets/ad5c0f0a-99c9-4166-9cf9-fbca011e3a92)
 
-# Output 
+# Result:
+The Correlation and regression for data analysis of objects from feeder using
+probability distribution are calculated.
